@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558455420261.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1805626301",
+    "id" : "FBA05172",
+    "lastKnownWriteTime" : 1558455573,
+    "last_content_update" : 1558455573855,
+    "path" : "D:/GitHub/WubbaLubbaDubDub/Shinny_app_project/app.R",
+    "project_path" : "Shinny_app_project/app.R",
+    "properties" : {
+        "cursorPosition" : "58,1",
+        "scrollLine" : "28"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
